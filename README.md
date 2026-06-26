@@ -7,24 +7,9 @@ An interactive Power BI dashboard built to analyze Starbucks beverage data using
 
 This project transforms raw Starbucks beverage data into an interactive dashboard that enables users to explore nutritional information and beverage trends. It demonstrates data cleaning, DAX calculations, dashboard design, and storytelling through Power BI.
 
-🚀 Dashboard Features
-Interactive Power BI Dashboard
-Dynamic Filters (Protein Range & Beverage Preparation)
-KPI Cards
-Total Beverages
-Average Calories
-Average Sugar
-Average Caffeine
-Average Calories by Beverage Category
-Beverage Category Preference Analysis
-Beverage Category Distribution
-Average Caffeine by Category
-Top 5 Highest Caffeine Beverages
-Modern Starbucks-inspired UI Design
-
 📊 Key Insights
-Identifies beverage categories with the highest average calories.
-Highlights beverages containing the highest caffeine.
-Shows category-wise beverage distribution.
-Enables filtering based on beverage preparation methods.
-Provides nutritional comparison across different beverage categories.
+1. Identifies beverage categories with the highest average calories.
+2. Highlights beverages containing the highest caffeine.
+3. Shows category-wise beverage distribution.
+4. Enables filtering based on beverage preparation methods.
+5. Provides nutritional comparison across different beverage categories.
